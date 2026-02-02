@@ -21,8 +21,7 @@
           `-----------------------------------------------------'
 
 ## What I'm working on:
-- **Linear Regression Calculator**: A school project for implementing the linear regression algortihm using python.
-- **Unsecure PWA**: Making a previously unsecure PWA secure. 
+- **SOON**: 
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/wizqrd?theme=dark)
